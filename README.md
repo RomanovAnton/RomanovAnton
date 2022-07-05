@@ -27,5 +27,5 @@
 
 ### Contacts
 
-[<img src="./svg/telegram.svg" width="30px">](https://t.me/AntRmv)
-[<img src="./svg/gmail.svg" width="25px">](mailto:rad250495@mail.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AntRmv)
+[![Mail Badge](https://img.shields.io/badge/-Mail-9cf?style=flat-square&logo=Mail.ru&logoColor=white)](mailto:rad250495@mail.ru)
