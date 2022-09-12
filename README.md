@@ -19,5 +19,5 @@
 
 ## Contacts
 
-[![GMAIL](images/GMAIL.svg)](mailto:rad250495@mail.ru)
-[![TELEGRAM](images/TELEGRAM.svg)](https://t.me/AntRmv)
+[![GMAIL](images/GMAIL.svg)](mailto:antrmv25@gmail.com)
+[![TELEGRAM](images/TELEGRAM.svg)](https://t.me/antrmv25)
