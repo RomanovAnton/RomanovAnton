@@ -14,19 +14,6 @@
 <img alt="node.js" src="https://img.shields.io/badge/express-A9A9A9.svg?&style=for-the-badge&logo=express&logoColor=000000" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 
-## GitHub Analytics
-
-<details>	
-<summary><b style='font-size: 18px'>Streaks</b></summary>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanovAnton&theme=tokyonight&hide_border=true" />
-</details>
-
-<details>	
-<summary><b style='font-size: 18px'>Stats</b></summary>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanovAnton&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
-</details>
-
 ## Contacts
 
 [![GMAIL](images/GMAIL.svg)](mailto:antrmv25@gmail.com)
